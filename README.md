@@ -15,3 +15,6 @@ First, run the development server:
 ```bash
 npm run dev
 ```
+
+template
+![image](https://github.com/manoftp/react_buget/assets/32449713/2fdd9866-325e-4015-b50c-e84e20058faa)
